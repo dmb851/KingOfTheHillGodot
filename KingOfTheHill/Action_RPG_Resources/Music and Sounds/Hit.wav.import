@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Hit.wav-11c541d359adfd6db5dedaab0ebe007b.sample"
+
+[deps]
+
+source_file="res://Action_RPG_Resources/Music and Sounds/Hit.wav"
+dest_files=[ "res://.import/Hit.wav-11c541d359adfd6db5dedaab0ebe007b.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

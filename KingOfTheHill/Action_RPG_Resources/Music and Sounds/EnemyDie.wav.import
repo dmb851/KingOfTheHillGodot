@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/EnemyDie.wav-52ff445cb6e386c93bb36415c3f84bba.sample"
+
+[deps]
+
+source_file="res://Action_RPG_Resources/Music and Sounds/EnemyDie.wav"
+dest_files=[ "res://.import/EnemyDie.wav-52ff445cb6e386c93bb36415c3f84bba.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

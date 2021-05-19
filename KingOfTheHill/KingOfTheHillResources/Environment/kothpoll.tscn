@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://KingOfTheHillResources/Environment/kothpoll.png" type="Texture" id=1]
+
+[node name="kothpoll" type="Sprite"]
+scale = Vector2( 0.0846315, 0.163211 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -500 )
